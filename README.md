@@ -12,7 +12,7 @@
 - Adaptive
 - GSAP
 - Three
-- React
+- React (18)
 - ReactDOM
 - Typescript
 
