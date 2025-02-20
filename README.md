@@ -24,5 +24,5 @@ Created a modern, interactive landing page showcasing Apple devices, with a spec
 ## 🎨 Original
 🔗 [Original](https://www.apple.com/)  
 
-## 💡 Inspiration
+## ⭐ Inspiration
 🔗 [Adrian Hajdin](https://github.com/adrianhajdin)  
